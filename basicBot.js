@@ -260,7 +260,7 @@
             autoskip: false,
             smartSkip: true,
             cmdDeletion: true,
-            maximumAfk: 120,
+            maximumAfk: 400,
             afkRemoval: true,
             maximumDc: 60,
             bouncerPlus: true,
